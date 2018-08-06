@@ -22,5 +22,9 @@
             el.style.width = '50px';
             el.parentNode.style.width = '52px';
         }
+        if (el.clientHeight < 20) {
+            el.style.height = '20px';
+            el.parentNode.style.height = '22px';
+        }
     }
 })();
