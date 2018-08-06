@@ -7,6 +7,8 @@
 // @match        http*://*/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js
+// @updateURL    https://github.com/planetarian/UserScripts/raw/master/BooruBubbles.user.js
+// @downloadURL  https://github.com/planetarian/UserScripts/raw/master/BooruBubbles.user.js
 // ==/UserScript==
 
 (function() {
