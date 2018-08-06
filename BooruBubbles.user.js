@@ -17,7 +17,7 @@
     for (var i = 0; i < elements.length; i++) {
         let el = elements[i];
         el.innerText = el.parentNode.nextSibling.innerText;
-        el.style.opacity = 0.9;
+        el.style.opacity = 0.95;
         if (el.clientWidth < 50) {
             el.style.width = '50px';
             el.parentNode.style.width = '52px';
