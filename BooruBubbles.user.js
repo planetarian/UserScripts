@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Booru Bubbles
 // @namespace    https://danbooru.donmai.us/
-// @version      0.1
+// @version      0.2
 // @description  Makes danbooru bubbles visible everywhere
 // @author       Chami
-// @match        http*://*/*
+// @match        http*://danbooru.donmai.us/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js
 // @updateURL    https://github.com/planetarian/UserScripts/raw/master/BooruBubbles.user.js
